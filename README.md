@@ -1,2 +1,5 @@
-# Csc-235
-A repo for my practical in UI 
+## C programming:
+
+* **Hello World**
+  * [Hello world](./C_Hello_world.c): Code to print Hello world.
+
