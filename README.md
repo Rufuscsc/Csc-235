@@ -1,7 +1,7 @@
-## C programming tasks:
+## C programming tasks :page_with_curl:
 
 * **Hello World**
-  :Code to print Hello world  [this source code](https://github.com/Rufuscsc/Csc-235/blob/main/C_hello_world/C_Hello_world.c)
+  *[Hello World]:Code to print Hello world  [this source code](https://github.com/Rufuscsc/Csc-235/blob/main/C_hello_world/C_Hello_world.c)
 
 
 * **Names of Students**
