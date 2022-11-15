@@ -129,7 +129,7 @@ int main(){
     for (int i = 0; i< trial; i++) {
         if (name[i] > 0)
         {
-            printf("The child took %d steps before falling\n", name[i]);
+            printf("The child took %d steps\n", name[i]);
         }
         
         else if(name[i] <= 0){
